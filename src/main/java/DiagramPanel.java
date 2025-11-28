@@ -17,7 +17,7 @@ import net.sourceforge.plantuml.SourceStringReader;
  * A panel rendering a PlantUML diagram from a given UML source string.
  *
  * @author javiergs
- * @version 1.0
+ * @version 2.0
  */
 public class DiagramPanel extends JPanel {
 	

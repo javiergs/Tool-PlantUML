@@ -6,7 +6,7 @@ import java.awt.GridLayout;
  * An example demonstrating the use of UMLPanel to render PlantUML diagrams.
  *
  * @author javiergs
- * @version 1.0
+ * @version 2.0
  */
 public class Driver extends JFrame {
 	
