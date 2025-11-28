@@ -7,11 +7,8 @@ It takes a UML source string, generates a PNG image using PlantUML, and displays
 </p>
 
 ## 🚀 Features
-- Render PlantUML diagrams **entirely in memory**  
 - Display the generated diagram inside a Swing `JPanel`  
-- **Automatic sizing** based on the diagram resolution  
 - **Scrollable viewer** for large diagrams  
-- Zero temporary files — everything stays in RAM  
 
 ## 📁 Project Structure
 This project consists of two files:
