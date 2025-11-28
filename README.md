@@ -1,3 +1,5 @@
+![Static Badge](https://img.shields.io/badge/author-javiergs-orange)
+![GitHub repo size](https://img.shields.io/github/repo-size/CSC3100/Tool-PlantUML)
 
 This lightweight Java Swing application renders PlantUML diagrams directly inside a GUI window.  
 It takes a UML source string, generates a PNG image using PlantUML, and displays it in a scrollable panel—no external tools or file generation required.
